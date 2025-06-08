@@ -57,7 +57,7 @@ The dataset used for this project is from a loan prediction problem and includes
 
 ## 📊 Visualizations
 
-- Loan Status Distribution  
+- Loan Status Distribution  ![Loan Status Distribution](images/loan_status_distribution.png)
 - Loan Approval by Property Area  
 - Applicant Income by Loan Status  
 - Correlation Heatmap  
